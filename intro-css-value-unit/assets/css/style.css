@@ -1,0 +1,36 @@
+/* CSS VALUE PART 1 */
+html {
+  font-size: 50px;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: salmon;
+  transform: rotate(15deg);
+  margin: 50px auto;
+  transition: 300ms;
+}
+
+.box-em {
+  font-size: 30px;
+}
+
+.box-em h1 {
+  font-size: 1em;
+}
+
+.box-em p {
+  font-size: 2em;
+}
+
+.box-rem {
+  font-size: 35px;
+}
+
+.box-rem h2 {
+  font-size: 1rem;
+}
+
+.box-rem p {
+  font-size: 2rem;
+}
