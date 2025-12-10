@@ -37,3 +37,10 @@ section .detail {
   color: rgba(0, 0, 0, 0.6);
   font-family: monospace;
 }
+
+section p {
+  font-size: 1.2em;
+  margin-bottom: 1em;
+  text-indent: 1em;
+  text-align: justify;
+}
